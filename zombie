@@ -2,5 +2,6 @@ return {
     [80978813011227] = "workspace.mainGame.active_anomaly",
     [73437014831875] = "workspace.First",
     [10165583746] = "workspace.Characters",
-    [139318637402070] = "workspace.Game.Map.NPCS.Models"
+    [139318637402070] = "workspace.Game.Map.NPCS.Models",
+    [7410285033] = "workspace"
 }
