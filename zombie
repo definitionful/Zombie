@@ -3,5 +3,6 @@ return {
     [73437014831875] = "workspace.First",
     [10165583746] = "workspace.Characters",
     [139318637402070] = "workspace.Game.Map.NPCS.Models",
-    [7410285033] = "workspace"
+    [7410285033] = "workspace",
+    [10149471313] ="workspace.Bots"
 }
