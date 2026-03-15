@@ -7,5 +7,6 @@ return {
     [10149471313] = "workspace.Bots",
     [18856160616] = "workspace.Living",
     [2557847604] = "workspace.Police",
-    [13733418612] = "workspace.active.Programming.Enemies"
+    [13733418612] = "workspace.active.Programming.Enemies",
+    [8287862132] = "workspace.Entities.Infected"
 }
